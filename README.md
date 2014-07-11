@@ -6,6 +6,7 @@
     pip install ./python_module_packing_study
 
     pip uninstall MyTestModule
+    (uninstall by package name)
 
 # Reference
 
